@@ -2,6 +2,7 @@
   "name": "nuevatarea",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://clarabur.github.io/nuevatarea/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
